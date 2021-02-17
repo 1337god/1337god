@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![1337god's github stats](https://github-readme-stats.vercel.app/api?username=1337god&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337god&layout=compact&langs_count=12)](https://github-readme-stats.vercel.app/api/top-langs/?username=1337god&layout=compact&langs_count=12)
+
 <!--
 **1337god/1337god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
