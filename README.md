@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/1337god?template=terminal&activity=1&followup=1&isocalendar=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLisbon&config.animated=true)
+
+<!--
+Vercel GitHub Stats
+
 ![1337god's github stats](https://github-readme-stats.vercel.app/api?username=1337god&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337god&layout=compact&langs_count=12)](https://github-readme-stats.vercel.app/api/top-langs/?username=1337god&layout=compact&langs_count=12)
+-->
 
 <!--
 **1337god/1337god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
