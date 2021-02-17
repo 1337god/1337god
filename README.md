@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Metrics](https://metrics.lecoq.io/1337god?template=terminal&activity=1&followup=1&isocalendar=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLisbon&config.animated=true)
 
 <!--
